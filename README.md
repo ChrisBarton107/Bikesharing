@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-The purpose of the analysis was to analyze New York City bike data in effort to assess the viability of starting a similar business in a different location
+The purpose of the analysis was to analyze New York City bike data in effort to assess the viability of starting a similar business in Des Moines, IA
 
 #### Tableau Public [Link to Dashboard](https://public.tableau.com/profile/chris.barton4242#!/vizhome/NYCCitiBike_16108991686120/NYCCitiBikeStory)
 
@@ -31,5 +31,7 @@ Trips were predominately taken on weekdays in the mornings and evenings and on w
 Users were predominately male and made a majority of their trips on weekdays
 
 ## Summary
-A majority of users were male subscribers who made trips on weekdays in the mornings (8-9am) and evenings (5-6pm). Based on this data, it is reasonable to infer that users were using bicycles to travel to and from work. 
+A majority of users were male subscribers who made trips on weekdays in the mornings (8-9am) and evenings (5-6pm). Based on this data, it is reasonable to infer that users were using bicycles to travel to and from work. While the analysis investigated many aspects of the data, it could benefit from the inclusion of a few areas of emphasis, including 
+- Male to female population demographics
+- Monthly bicycle usage and how data changes from month to month based on work schedules, vacation, etc.
 
