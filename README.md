@@ -10,13 +10,13 @@ The purpose of the analysis was to analyze New York City bike data in effort to 
 <img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/NYC_Locations.png" alt="drawing" width="1000"/>
 Top starting and ending locations in New York City given in geographic coordinates 
 
-### Checkout Times Gender
-<img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/Checkout_Times_Gender.png" alt="drawing" width="1000"/>
-Checkout times peaked during hours 4-6 and were predominately male
-
 ### Checkout Times Users
 <img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/Checkout_Times_Users.png" alt="drawing" width="1000"/>
 Checkout times peaked during hours 4-6
+
+### Checkout Times Gender
+<img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/Checkout_Times_Gender.png" alt="drawing" width="1000"/>
+Checkout times peaked during hours 4-6 and were predominately male
 
 ### Trips By Gender
 <img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/Trips_By_Gender.png" alt="drawing" width="1000"/>
@@ -24,11 +24,11 @@ Users were predominately male and made trips in the morning between 8-9am and in
 
 ### Trips By Weekday
 <img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/Trips_By_Weekday.png" alt="drawing" width="1000"/>
-Users were predominately male and made a majority of their trips on weekdays
+Trips were predominately taken on weekdays in the mornings and evenings and on weekends from 10am-4pm
 
 ### User Trips Weekday
 <img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/User_Trips_Gender_Weekday.png" alt="drawing" width=“1000”/>
-*
+Users were predominately male and made a majority of their trips on weekdays
 
 ## Summary
 A majority of users were male subscribers who made trips on weekdays in the mornings (8-9am) and evenings (5-6pm). Based on this data, it is reasonable to infer that users were using bicycles to travel to and from work. 
