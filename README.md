@@ -3,6 +3,8 @@
 ## Overview
 The purpose of the analysis was to analyze New York City bike data in effort to assess the viability of starting a similar business in a different location
 
+#### Tableau Public [Link to Dashboard](https://public.tableau.com/profile/chris.barton4242#!/vizhome/NYCCitiBike_16108991686120/NYCCitiBikeStory)
+
 ## Results
 ### NYC Locations
 <img src="https://github.com/ChrisBarton107/Bikesharing/blob/main/Resources/NYC_Locations.png" alt="drawing" width="1000"/>
